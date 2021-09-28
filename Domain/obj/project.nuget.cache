@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0XAJPdp5THYFqNEGq7rM3GXxvAxsO7aTmSEJfDyDww/z+PvAs9wzpopNW7vHJEDMc4gPzl/8XQGkBj+nd0XvgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Downloads\\ProductosApp-1m2_Terminado (1)\\ProductosApp-1m2\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
